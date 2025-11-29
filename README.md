@@ -54,20 +54,9 @@ A modern chat app that lets users **connect through text, images, audio, and vid
 
 I'm a **Web & Mobile App Developer** passionate about building user-friendly, scalable, and interactive applications.  
 📫 Reach out: `mdraselahmed.code@gmail.com`  
-🌐 [Portfolio](#) | [LinkedIn](#) | [GitHub](https://github.com/mdraselahmedcode)
+
+<!-- 🌐 [Portfolio](#) | [LinkedIn](#) | [GitHub](https://github.com/mdraselahmedcode) -->
+
 
 ---
 
-## 📦 Setup Instructions
-
-```bash
-# Clone the repo
-git clone https://github.com/mdraselahmedcode/Chatting-Application-frontend.git
-
-# Navigate to frontend folder and install dependencies
-cd frontend
-npm install
-
-# Do the same for backend
-cd ../backend
-npm install
