@@ -26,7 +26,7 @@ A modern chat app that lets users **connect through text, images, audio, and vid
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
 <!-- Add image links here -->
 <!-- ![Chat screen](./screenshots/chat.png) -->
@@ -40,6 +40,12 @@ A modern chat app that lets users **connect through text, images, audio, and vid
 
 ![Chatting App Screenshot](https://github.com/mdraselahmedcode/Chatting-Application-frontend_Mobile/blob/master/08.jpg?raw=true)
 
+![Chatting App Screenshot](https://github.com/mdraselahmedcode/Chatting-Application-frontend_Mobile/blob/master/07.jpg?raw=true)
+
+![Chatting App Screenshot](https://github.com/mdraselahmedcode/Chatting-Application-frontend_Mobile/blob/master/01.jpg?raw=true)
+
+![Chatting App Screenshot](https://github.com/mdraselahmedcode/Chatting-Application-frontend_Mobile/blob/master/02.jpg?raw=true)
+
 
 
 ---
@@ -52,7 +58,7 @@ I'm a **Web & Mobile App Developer** passionate about building user-friendly, sc
 
 ---
 
-## 📦 Setup Instructions (optional)
+## 📦 Setup Instructions
 
 ```bash
 # Clone the repo
